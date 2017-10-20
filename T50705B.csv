@@ -1,0 +1,521 @@
+CL_UNIT,DataValue,LineDescription,LineNumber,METRIC_NAME,SeriesCode,TableID,TableName,TimePeriod,UNIT_MULT,_id
+Level,"70,940",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,1997,6,59e969db37efdf6d8b49d7fb
+Level,"63,719",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d7fc
+Level,"60,816",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d7fd
+Level,"54,545",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d7fe
+Level,"-38,283",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d7ff
+Level,"18,501",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d800
+Level,"19,286",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d801
+Level,"63,860",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d802
+Level,"59,579",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d803
+Level,"66,972",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d804
+Level,"34,452",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d805
+Level,"-31,996",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d806
+Level,"-147,570",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d807
+Level,"61,528",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d808
+Level,"41,763",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d809
+Level,"61,794",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d80a
+Level,"92,407",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d80b
+Level,"77,987",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d80c
+Level,"111,943",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d80d
+Level,"35,078",Change in private inventories,1,Current Dollars,A014RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d80e
+Level,"3,271",Farm,2,Current Dollars,B018RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d80f
+Level,"1,266",Farm,2,Current Dollars,B018RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d810
+Level,"-2,730",Farm,2,Current Dollars,B018RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d811
+Level,"-1,398",Farm,2,Current Dollars,B018RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d812
+Level,37,Farm,2,Current Dollars,B018RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d813
+Level,"-2,497",Farm,2,Current Dollars,B018RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d814
+Level,67,Farm,2,Current Dollars,B018RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d815
+Level,"8,807",Farm,2,Current Dollars,B018RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d816
+Level,225,Farm,2,Current Dollars,B018RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d817
+Level,"-3,577",Farm,2,Current Dollars,B018RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d818
+Level,-706,Farm,2,Current Dollars,B018RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d819
+Level,"1,607",Farm,2,Current Dollars,B018RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d81a
+Level,"-1,602",Farm,2,Current Dollars,B018RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d81b
+Level,"-7,323",Farm,2,Current Dollars,B018RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d81c
+Level,"2,089",Farm,2,Current Dollars,B018RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d81d
+Level,"-19,481",Farm,2,Current Dollars,B018RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d81e
+Level,"10,179",Farm,2,Current Dollars,B018RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d81f
+Level,"-4,825",Farm,2,Current Dollars,B018RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d820
+Level,480,Farm,2,Current Dollars,B018RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d821
+Level,-628,Farm,2,Current Dollars,B018RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d822
+Level,"1,519","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d823
+Level,"5,392","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d824
+Level,"-1,272","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d825
+Level,"-2,197","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d826
+Level,"8,194","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d827
+Level,"-2,895","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d828
+Level,"6,011","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d829
+Level,"1,239","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d82a
+Level,"3,582","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d82b
+Level,"16,242","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d82c
+Level,"-3,412","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d82d
+Level,"-7,731","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d82e
+Level,"-2,583","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d82f
+Level,"1,393","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d830
+Level,"-5,065","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d831
+Level,"7,349","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d832
+Level,"-3,806","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d833
+Level,"4,069","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d834
+Level,"11,541","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d835
+Level,"-3,364","Mining, utilities, and construction",3,Current Dollars,N541RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d836
+Level,"21,067",Manufacturing,4,Current Dollars,N150RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d837
+Level,"15,423",Manufacturing,4,Current Dollars,N150RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d838
+Level,"13,887",Manufacturing,4,Current Dollars,N150RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d839
+Level,"6,881",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d83a
+Level,"-23,506",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d83b
+Level,-220,Manufacturing,4,Current Dollars,N150RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d83c
+Level,"-7,110",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d83d
+Level,"5,561",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d83e
+Level,"20,725",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d83f
+Level,"18,436",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d840
+Level,"17,243",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d841
+Level,"-15,040",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d842
+Level,"-26,260",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d843
+Level,"23,405",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d844
+Level,"24,294",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d845
+Level,"12,490",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d846
+Level,"14,981",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d847
+Level,"18,965",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d848
+Level,"35,477",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d849
+Level,"9,769",Manufacturing,4,Current Dollars,N150RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d84a
+Level,"14,146",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d84b
+Level,"16,018",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d84c
+Level,"6,318",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d84d
+Level,"6,219",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d84e
+Level,"-19,514",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d84f
+Level,"-2,769",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d850
+Level,"-4,636",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d851
+Level,"3,868",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d852
+Level,"16,505",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d853
+Level,"12,412",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d854
+Level,"12,486",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d855
+Level,"-5,685",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d856
+Level,"-24,059",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d857
+Level,"17,348",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d858
+Level,"22,325",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d859
+Level,"10,914",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d85a
+Level,"9,468",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d85b
+Level,"15,674",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d85c
+Level,"18,058",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d85d
+Level,"-2,871",Durable goods industries,5,Current Dollars,N624RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d85e
+Level,"6,921",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d85f
+Level,-595,Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d860
+Level,"7,569",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d861
+Level,662,Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d862
+Level,"-3,992",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d863
+Level,"2,549",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d864
+Level,"-2,474",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d865
+Level,"1,693",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d866
+Level,"4,220",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d867
+Level,"6,024",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d868
+Level,"4,757",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d869
+Level,"-9,355",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d86a
+Level,"-2,201",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d86b
+Level,"6,057",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d86c
+Level,"1,969",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d86d
+Level,"1,576",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d86e
+Level,"5,514",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d86f
+Level,"3,291",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d870
+Level,"17,419",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d871
+Level,"12,641",Nondurable goods industries,6,Current Dollars,N625RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d872
+Level,"25,330",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d873
+Level,"21,432",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d874
+Level,"18,910",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d875
+Level,"18,854",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d876
+Level,"-12,336",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d877
+Level,166,Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d878
+Level,"1,318",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d879
+Level,"20,821",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d87a
+Level,"27,712",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d87b
+Level,"22,355",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d87c
+Level,"15,257",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d87d
+Level,"18,685",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d87e
+Level,"-61,893",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d87f
+Level,"26,089",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d880
+Level,"18,260",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d881
+Level,"30,311",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d882
+Level,"33,951",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d883
+Level,"37,313",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d884
+Level,"27,663",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d885
+Level,"12,403",Wholesale trade,7,Current Dollars,N658RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d886
+Level,"17,252",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d887
+Level,"17,021",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d888
+Level,"14,072",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d889
+Level,"13,524",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d88a
+Level,"-16,663",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d88b
+Level,"-1,498",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d88c
+Level,"2,494",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d88d
+Level,"19,283",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d88e
+Level,"20,701",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d88f
+Level,"18,120",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d890
+Level,"3,202",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d891
+Level,"8,941",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d892
+Level,"-49,578",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d893
+Level,"10,764",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d894
+Level,"24,512",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d895
+Level,"22,830",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d896
+Level,"24,950",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d897
+Level,"24,197",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d898
+Level,"7,490",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d899
+Level,"1,130",Durable goods industries,8,Current Dollars,N661RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d89a
+Level,"8,078",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d89b
+Level,"4,411",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d89c
+Level,"4,838",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d89d
+Level,"5,330",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d89e
+Level,"4,327",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d89f
+Level,"1,664",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d8a0
+Level,"-1,176",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d8a1
+Level,"1,538",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d8a2
+Level,"7,011",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d8a3
+Level,"4,235",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d8a4
+Level,"12,055",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d8a5
+Level,"9,744",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d8a6
+Level,"-12,315",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d8a7
+Level,"15,325",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d8a8
+Level,"-6,252",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d8a9
+Level,"7,481",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d8aa
+Level,"9,001",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d8ab
+Level,"13,116",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d8ac
+Level,"20,174",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d8ad
+Level,"11,273",Nondurable goods industries,9,Current Dollars,N664RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d8ae
+Level,"14,452",Retail trade,10,Current Dollars,N153RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d8af
+Level,"14,637",Retail trade,10,Current Dollars,N153RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d8b0
+Level,"24,934",Retail trade,10,Current Dollars,N153RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d8b1
+Level,"19,957",Retail trade,10,Current Dollars,N153RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d8b2
+Level,"-10,317",Retail trade,10,Current Dollars,N153RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d8b3
+Level,"25,035",Retail trade,10,Current Dollars,N153RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d8b4
+Level,"17,535",Retail trade,10,Current Dollars,N153RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d8b5
+Level,"23,137",Retail trade,10,Current Dollars,N153RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d8b6
+Level,"5,012",Retail trade,10,Current Dollars,N153RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d8b7
+Level,"9,340",Retail trade,10,Current Dollars,N153RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d8b8
+Level,"6,299",Retail trade,10,Current Dollars,N153RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d8b9
+Level,"-31,007",Retail trade,10,Current Dollars,N153RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d8ba
+Level,"-49,714",Retail trade,10,Current Dollars,N153RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d8bb
+Level,"19,110",Retail trade,10,Current Dollars,N153RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d8bc
+Level,"-1,317",Retail trade,10,Current Dollars,N153RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d8bd
+Level,"28,166",Retail trade,10,Current Dollars,N153RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d8be
+Level,"32,576",Retail trade,10,Current Dollars,N153RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d8bf
+Level,"13,165",Retail trade,10,Current Dollars,N153RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d8c0
+Level,"27,139",Retail trade,10,Current Dollars,N153RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d8c1
+Level,"14,796",Retail trade,10,Current Dollars,N153RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d8c2
+Level,"5,143",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d8c3
+Level,"1,832",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d8c4
+Level,"12,440",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d8c5
+Level,"11,880",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d8c6
+Level,"-9,329",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d8c7
+Level,"17,216",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d8c8
+Level,"12,756",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d8c9
+Level,"7,337",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d8ca
+Level,"-2,906",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d8cb
+Level,-665,Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d8cc
+Level,"2,921",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d8cd
+Level,"-12,345",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d8ce
+Level,"-32,931",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d8cf
+Level,"12,331",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d8d0
+Level,"1,264",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d8d1
+Level,"22,438",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d8d2
+Level,"17,585",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d8d3
+Level,"7,260",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d8d4
+Level,"9,925",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d8d5
+Level,"9,507",Motor vehicle and parts dealers,11,Current Dollars,N631RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d8d6
+Level,344,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d8d7
+Level,942,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d8d8
+Level,"1,529",Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d8d9
+Level,-561,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d8da
+Level,408,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d8db
+Level,848,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d8dc
+Level,"-1,180",Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d8dd
+Level,306,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d8de
+Level,-218,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d8df
+Level,885,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d8e0
+Level,"1,139",Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d8e1
+Level,-453,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d8e2
+Level,-332,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d8e3
+Level,339,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d8e4
+Level,-160,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d8e5
+Level,131,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d8e6
+Level,701,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d8e7
+Level,894,Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d8e8
+Level,"2,182",Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d8e9
+Level,"2,417",Food and beverage stores,12,Current Dollars,N542RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d8ea
+Level,142,General merchandise stores,13,Current Dollars,N543RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d8eb
+Level,359,General merchandise stores,13,Current Dollars,N543RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d8ec
+Level,"2,694",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d8ed
+Level,"1,040",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d8ee
+Level,160,General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d8ef
+Level,"2,040",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d8f0
+Level,"1,276",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d8f1
+Level,"4,492",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d8f2
+Level,"2,855",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d8f3
+Level,"1,012",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d8f4
+Level,-236,General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d8f5
+Level,"-4,035",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d8f6
+Level,"-2,870",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d8f7
+Level,"2,216",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d8f8
+Level,984,General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d8f9
+Level,"1,107",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d8fa
+Level,"3,402",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d8fb
+Level,-970,General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d8fc
+Level,"1,509",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d8fd
+Level,"-1,220",General merchandise stores,13,Current Dollars,N543RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d8fe
+Level,"8,823",Other retail stores,14,Current Dollars,N558RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d8ff
+Level,"11,504",Other retail stores,14,Current Dollars,N558RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d900
+Level,"8,271",Other retail stores,14,Current Dollars,N558RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d901
+Level,"7,598",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d902
+Level,"-1,556",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d903
+Level,"4,931",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d904
+Level,"4,683",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d905
+Level,"11,002",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d906
+Level,"5,281",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d907
+Level,"8,108",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d908
+Level,"2,475",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d909
+Level,"-14,174",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d90a
+Level,"-13,581",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d90b
+Level,"4,224",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d90c
+Level,"-3,405",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d90d
+Level,"4,490",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d90e
+Level,"10,888",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d90f
+Level,"5,981",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d910
+Level,"13,523",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d911
+Level,"4,092",Other retail stores,14,Current Dollars,N558RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d912
+Level,"5,301",Other industries,15,Current Dollars,N154RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d913
+Level,"5,570",Other industries,15,Current Dollars,N154RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d914
+Level,"7,085",Other industries,15,Current Dollars,N154RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d915
+Level,"12,446",Other industries,15,Current Dollars,N154RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d916
+Level,-356,Other industries,15,Current Dollars,N154RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d917
+Level,"-1,088",Other industries,15,Current Dollars,N154RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d918
+Level,"1,465",Other industries,15,Current Dollars,N154RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d919
+Level,"4,294",Other industries,15,Current Dollars,N154RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d91a
+Level,"2,323",Other industries,15,Current Dollars,N154RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d91b
+Level,"4,176",Other industries,15,Current Dollars,N154RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d91c
+Level,-230,Other industries,15,Current Dollars,N154RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d91d
+Level,"1,490",Other industries,15,Current Dollars,N154RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d91e
+Level,"-5,516",Other industries,15,Current Dollars,N154RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d91f
+Level,"-1,146",Other industries,15,Current Dollars,N154RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d920
+Level,"3,501",Other industries,15,Current Dollars,N154RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d921
+Level,"2,959",Other industries,15,Current Dollars,N154RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d922
+Level,"4,526",Other industries,15,Current Dollars,N154RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d923
+Level,"9,299",Other industries,15,Current Dollars,N154RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d924
+Level,"9,644",Other industries,15,Current Dollars,N154RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d925
+Level,"2,100",Other industries,15,Current Dollars,N154RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d926
+Level,"70,940",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d927
+Level,"63,719",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d928
+Level,"60,816",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d929
+Level,"54,545",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d92a
+Level,"-38,283",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d92b
+Level,"18,501",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d92c
+Level,"19,286",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d92d
+Level,"63,860",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d92e
+Level,"59,579",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d92f
+Level,"66,972",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d930
+Level,"34,452",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d931
+Level,"-31,996",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d932
+Level,"-147,570",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d933
+Level,"61,528",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d934
+Level,"41,763",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d935
+Level,"61,794",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d936
+Level,"92,407",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d937
+Level,"77,987",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d938
+Level,"111,943",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d939
+Level,"35,078",Change in private inventories,16,Current Dollars,A014RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d93a
+Level,"39,993",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d93b
+Level,"39,305",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d93c
+Level,"37,401",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d93d
+Level,"35,578",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d93e
+Level,"-44,449",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d93f
+Level,"18,154",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d940
+Level,"14,668",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d941
+Level,"38,370",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d942
+Level,"41,906",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d943
+Level,"34,616",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d944
+Level,"15,606",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d945
+Level,"-24,876",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d946
+Level,"-117,000",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d947
+Level,"39,037",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d948
+Level,"43,720",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d949
+Level,"57,168",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d94a
+Level,"55,826",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d94b
+Level,"49,743",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d94c
+Level,"41,187",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d94d
+Level,"10,981",Durable goods industries,17,Current Dollars,N355RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d94e
+Level,"30,947",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d94f
+Level,"24,414",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d950
+Level,"23,415",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d951
+Level,"18,967",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d952
+Level,"6,165",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d953
+Level,348,Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d954
+Level,"4,618",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d955
+Level,"25,489",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d956
+Level,"17,673",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d957
+Level,"32,356",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d958
+Level,"18,845",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d959
+Level,"-7,119",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d95a
+Level,"-30,569",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d95b
+Level,"22,492",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d95c
+Level,"-1,958",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2011,6,59e969dc37efdf6d8b49d95d
+Level,"4,626",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2012,6,59e969dc37efdf6d8b49d95e
+Level,"36,581",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2013,6,59e969dc37efdf6d8b49d95f
+Level,"28,244",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2014,6,59e969dc37efdf6d8b49d960
+Level,"70,756",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2015,6,59e969dc37efdf6d8b49d961
+Level,"24,097",Nondurable goods industries,18,Current Dollars,N357RC,164,T50705B,2016,6,59e969dc37efdf6d8b49d962
+Level,"67,669",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,1997,6,59e969dc37efdf6d8b49d963
+Level,"62,453",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,1998,6,59e969dc37efdf6d8b49d964
+Level,"63,546",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,1999,6,59e969dc37efdf6d8b49d965
+Level,"55,943",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2000,6,59e969dc37efdf6d8b49d966
+Level,"-38,320",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2001,6,59e969dc37efdf6d8b49d967
+Level,"20,998",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2002,6,59e969dc37efdf6d8b49d968
+Level,"19,219",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2003,6,59e969dc37efdf6d8b49d969
+Level,"55,053",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2004,6,59e969dc37efdf6d8b49d96a
+Level,"59,354",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2005,6,59e969dc37efdf6d8b49d96b
+Level,"70,549",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2006,6,59e969dc37efdf6d8b49d96c
+Level,"35,158",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2007,6,59e969dc37efdf6d8b49d96d
+Level,"-33,603",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2008,6,59e969dc37efdf6d8b49d96e
+Level,"-145,968",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2009,6,59e969dc37efdf6d8b49d96f
+Level,"68,851",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2010,6,59e969dc37efdf6d8b49d970
+Level,"39,674",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2011,6,59e969dd37efdf6d8b49d971
+Level,"81,274",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2012,6,59e969dd37efdf6d8b49d972
+Level,"82,228",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2013,6,59e969dd37efdf6d8b49d973
+Level,"82,811",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2014,6,59e969dd37efdf6d8b49d974
+Level,"111,464",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2015,6,59e969dd37efdf6d8b49d975
+Level,"35,705",Nonfarm industries,19,Current Dollars,A015RC,164,T50705B,2016,6,59e969dd37efdf6d8b49d976
+Level,"48,951",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,1997,6,59e969dd37efdf6d8b49d977
+Level,"39,697",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,1998,6,59e969dd37efdf6d8b49d978
+Level,"70,055",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,1999,6,59e969dd37efdf6d8b49d979
+Level,"79,021",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2000,6,59e969dd37efdf6d8b49d97a
+Level,"-55,372",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2001,6,59e969dd37efdf6d8b49d97b
+Level,"18,153",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2002,6,59e969dd37efdf6d8b49d97c
+Level,"33,485",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2003,6,59e969dd37efdf6d8b49d97d
+Level,"110,275",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2004,6,59e969dd37efdf6d8b49d97e
+Level,"105,414",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2005,6,59e969dd37efdf6d8b49d97f
+Level,"106,341",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2006,6,59e969dd37efdf6d8b49d980
+Level,"92,355",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2007,6,59e969dd37efdf6d8b49d981
+Level,"14,180",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2008,6,59e969dd37efdf6d8b49d982
+Level,"-153,683",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2009,6,59e969dd37efdf6d8b49d983
+Level,"127,064",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2010,6,59e969dd37efdf6d8b49d984
+Level,"124,615",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2011,6,59e969dd37efdf6d8b49d985
+Level,"100,098",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2012,6,59e969dd37efdf6d8b49d986
+Level,"74,139",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2013,6,59e969dd37efdf6d8b49d987
+Level,"75,022",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2014,6,59e969dd37efdf6d8b49d988
+Level,"39,175",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2015,6,59e969dd37efdf6d8b49d989
+Level,"30,688",Nonfarm change in book value,20,Current Dollars,B016RC,164,T50705B,2016,6,59e969dd37efdf6d8b49d98a
+Level,"18,718",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,1997,6,59e969dd37efdf6d8b49d98b
+Level,"22,756",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,1998,6,59e969de37efdf6d8b49d98c
+Level,"-6,509",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,1999,6,59e969de37efdf6d8b49d98d
+Level,"-23,078",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2000,6,59e969de37efdf6d8b49d98e
+Level,"17,052",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2001,6,59e969de37efdf6d8b49d98f
+Level,"2,845",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2002,6,59e969de37efdf6d8b49d990
+Level,"-14,266",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2003,6,59e969de37efdf6d8b49d991
+Level,"-55,222",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2004,6,59e969de37efdf6d8b49d992
+Level,"-46,060",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2005,6,59e969de37efdf6d8b49d993
+Level,"-35,792",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2006,6,59e969de37efdf6d8b49d994
+Level,"-57,197",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2007,6,59e969de37efdf6d8b49d995
+Level,"-47,783",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2008,6,59e969de37efdf6d8b49d996
+Level,"7,715",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2009,6,59e969de37efdf6d8b49d997
+Level,"-58,213",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2010,6,59e969de37efdf6d8b49d998
+Level,"-84,941",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2011,6,59e969de37efdf6d8b49d999
+Level,"-18,824",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2012,6,59e969de37efdf6d8b49d99a
+Level,"8,089",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2013,6,59e969de37efdf6d8b49d99b
+Level,"7,789",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2014,6,59e969de37efdf6d8b49d99c
+Level,"72,289",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2015,6,59e969de37efdf6d8b49d99d
+Level,"5,018",Nonfarm inventory valuation adjustment,21,Current Dollars,B017RC,164,T50705B,2016,6,59e969de37efdf6d8b49d99e
+Level,"25,330",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,1997,6,59e969de37efdf6d8b49d99f
+Level,"21,432",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,1998,6,59e969de37efdf6d8b49d9a0
+Level,"18,910",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,1999,6,59e969de37efdf6d8b49d9a1
+Level,"18,854",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2000,6,59e969de37efdf6d8b49d9a2
+Level,"-12,336",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2001,6,59e969de37efdf6d8b49d9a3
+Level,166,Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2002,6,59e969de37efdf6d8b49d9a4
+Level,"1,318",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2003,6,59e969de37efdf6d8b49d9a5
+Level,"20,821",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2004,6,59e969de37efdf6d8b49d9a6
+Level,"27,712",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2005,6,59e969de37efdf6d8b49d9a7
+Level,"22,355",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2006,6,59e969de37efdf6d8b49d9a8
+Level,"15,257",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2007,6,59e969de37efdf6d8b49d9a9
+Level,"18,685",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2008,6,59e969de37efdf6d8b49d9aa
+Level,"-61,893",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2009,6,59e969de37efdf6d8b49d9ab
+Level,"26,089",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2010,6,59e969de37efdf6d8b49d9ac
+Level,"18,260",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2011,6,59e969de37efdf6d8b49d9ad
+Level,"30,311",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2012,6,59e969de37efdf6d8b49d9ae
+Level,"33,951",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2013,6,59e969de37efdf6d8b49d9af
+Level,"37,313",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2014,6,59e969de37efdf6d8b49d9b0
+Level,"27,663",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2015,6,59e969de37efdf6d8b49d9b1
+Level,"12,403",Wholesale trade,22,Current Dollars,N658RC,164,T50705B,2016,6,59e969de37efdf6d8b49d9b2
+Level,"22,654",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,1997,6,59e969de37efdf6d8b49d9b3
+Level,"19,454",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,1998,6,59e969de37efdf6d8b49d9b4
+Level,"16,309",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,1999,6,59e969de37efdf6d8b49d9b5
+Level,"14,775",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2000,6,59e969de37efdf6d8b49d9b6
+Level,"-8,044",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2001,6,59e969de37efdf6d8b49d9b7
+Level,790,Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2002,6,59e969de37efdf6d8b49d9b8
+Level,"1,704",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2003,6,59e969de37efdf6d8b49d9b9
+Level,"18,899",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2004,6,59e969de37efdf6d8b49d9ba
+Level,"19,447",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2005,6,59e969de37efdf6d8b49d9bb
+Level,"16,696",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2006,6,59e969de37efdf6d8b49d9bc
+Level,"9,576",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2007,6,59e969de37efdf6d8b49d9bd
+Level,"4,227",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2008,6,59e969de37efdf6d8b49d9be
+Level,"-46,100",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2009,6,59e969de37efdf6d8b49d9bf
+Level,"21,628",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2010,6,59e969de37efdf6d8b49d9c0
+Level,"13,331",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2011,6,59e969de37efdf6d8b49d9c1
+Level,"25,125",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2012,6,59e969de37efdf6d8b49d9c2
+Level,"32,613",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2013,6,59e969de37efdf6d8b49d9c3
+Level,"32,275",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2014,6,59e969de37efdf6d8b49d9c4
+Level,"19,499",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2015,6,59e969de37efdf6d8b49d9c5
+Level,"9,022",Merchant wholesale trade,23,Current Dollars,N151RC,164,T50705B,2016,6,59e969de37efdf6d8b49d9c6
+Level,"15,223",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,1997,6,59e969de37efdf6d8b49d9c7
+Level,"15,080",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,1998,6,59e969de37efdf6d8b49d9c8
+Level,"12,410",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,1999,6,59e969de37efdf6d8b49d9c9
+Level,"10,426",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2000,6,59e969de37efdf6d8b49d9ca
+Level,"-13,312",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2001,6,59e969de37efdf6d8b49d9cb
+Level,"-2,098",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2002,6,59e969de37efdf6d8b49d9cc
+Level,"2,584",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2003,6,59e969de37efdf6d8b49d9cd
+Level,"18,291",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2004,6,59e969de37efdf6d8b49d9ce
+Level,"16,007",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2005,6,59e969de37efdf6d8b49d9cf
+Level,"14,418",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2006,6,59e969de37efdf6d8b49d9d0
+Level,"2,599",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2007,6,59e969de37efdf6d8b49d9d1
+Level,"6,747",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2008,6,59e969de37efdf6d8b49d9d2
+Level,"-44,500",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2009,6,59e969de37efdf6d8b49d9d3
+Level,"13,349",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2010,6,59e969de37efdf6d8b49d9d4
+Level,"18,394",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2011,6,59e969de37efdf6d8b49d9d5
+Level,"21,626",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2012,6,59e969de37efdf6d8b49d9d6
+Level,"24,377",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2013,6,59e969de37efdf6d8b49d9d7
+Level,"18,436",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2014,6,59e969de37efdf6d8b49d9d8
+Level,"6,047",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2015,6,59e969de37efdf6d8b49d9d9
+Level,"1,163",Durable goods industries,24,Current Dollars,N626RC,164,T50705B,2016,6,59e969de37efdf6d8b49d9da
+Level,"7,431",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,1997,6,59e969de37efdf6d8b49d9db
+Level,"4,374",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,1998,6,59e969de37efdf6d8b49d9dc
+Level,"3,899",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,1999,6,59e969de37efdf6d8b49d9dd
+Level,"4,349",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2000,6,59e969de37efdf6d8b49d9de
+Level,"5,268",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2001,6,59e969de37efdf6d8b49d9df
+Level,"2,888",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2002,6,59e969de37efdf6d8b49d9e0
+Level,-880,Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2003,6,59e969de37efdf6d8b49d9e1
+Level,608,Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2004,6,59e969de37efdf6d8b49d9e2
+Level,"3,440",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2005,6,59e969de37efdf6d8b49d9e3
+Level,"2,278",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2006,6,59e969de37efdf6d8b49d9e4
+Level,"6,977",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2007,6,59e969de37efdf6d8b49d9e5
+Level,"-2,520",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2008,6,59e969de37efdf6d8b49d9e6
+Level,"-1,600",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2009,6,59e969de37efdf6d8b49d9e7
+Level,"8,279",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2010,6,59e969de37efdf6d8b49d9e8
+Level,"-5,063",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2011,6,59e969de37efdf6d8b49d9e9
+Level,"3,499",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2012,6,59e969de37efdf6d8b49d9ea
+Level,"8,237",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2013,6,59e969de37efdf6d8b49d9eb
+Level,"13,839",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2014,6,59e969de37efdf6d8b49d9ec
+Level,"13,452",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2015,6,59e969de37efdf6d8b49d9ed
+Level,"7,859",Nondurable goods industries,25,Current Dollars,N627RC,164,T50705B,2016,6,59e969de37efdf6d8b49d9ee
+Level,"2,676",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,1997,6,59e969de37efdf6d8b49d9ef
+Level,"1,978",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,1998,6,59e969de37efdf6d8b49d9f0
+Level,"2,602",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,1999,6,59e969de37efdf6d8b49d9f1
+Level,"4,079",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2000,6,59e969de37efdf6d8b49d9f2
+Level,"-4,291",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2001,6,59e969de37efdf6d8b49d9f3
+Level,-624,Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2002,6,59e969de37efdf6d8b49d9f4
+Level,-386,Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2003,6,59e969de37efdf6d8b49d9f5
+Level,"1,922",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2004,6,59e969de37efdf6d8b49d9f6
+Level,"8,265",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2005,6,59e969de37efdf6d8b49d9f7
+Level,"5,659",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2006,6,59e969de37efdf6d8b49d9f8
+Level,"5,681",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2007,6,59e969de37efdf6d8b49d9f9
+Level,"14,458",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2008,6,59e969de37efdf6d8b49d9fa
+Level,"-15,794",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2009,6,59e969de37efdf6d8b49d9fb
+Level,"4,461",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2010,6,59e969de37efdf6d8b49d9fc
+Level,"4,929",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2011,6,59e969de37efdf6d8b49d9fd
+Level,"5,186",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2012,6,59e969de37efdf6d8b49d9fe
+Level,"1,338",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2013,6,59e969de37efdf6d8b49d9ff
+Level,"5,038",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2014,6,59e969de37efdf6d8b49da00
+Level,"8,165",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2015,6,59e969de37efdf6d8b49da01
+Level,"3,381",Nonmerchant wholesale trade,26,Current Dollars,N152RC,164,T50705B,2016,6,59e969de37efdf6d8b49da02
